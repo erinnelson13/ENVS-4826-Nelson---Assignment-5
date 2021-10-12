@@ -2,7 +2,6 @@
 title: "ENVS4826 Nelson - Assignment 5"
 author: "Erin Nelson"
 date: "12/10/2021"
-Paper: "Currin, C.A. (2019). Living shorelines for coastal resilience.NOAA. Retrieved October 12, 2021, from https://reader.elsevier.com/reader/sd/pii/B9780444638939000307?token=73E149927E0B11D795384A67F9F45E6B6083AE6D870A2A0A8D77CB1D4B5666B484125DA96C035189555A4994F88A8520&originRegion=us-east-1&originCreation=20211007182552" 
 output: html_document
 ---
 
@@ -10,22 +9,29 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Introduction
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is where I write my introduction
+Also give bibliotic info
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
+```{r}
 summary(cars)
 ```
 
-## Including Plots
+## Methods
 
-You can also embed plots, for example:
+This is where my methods goes 
 
-```{r pressure, echo=FALSE}
+```{r}
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Results and Conclusion
+
+This is where my results and conclusions go
+Add code as needed 
+
+```{r}
+
+```
+
