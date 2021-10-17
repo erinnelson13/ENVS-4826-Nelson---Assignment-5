@@ -29,9 +29,12 @@ The metrics recorded were compared, contrasted, and combined using a statistical
 
 The results of the data were that the living shorelines were functionally equivalent in all parameters other than the soil properties. The soil properties were lacking in functional equivalency, as the soil used were clean which meant they were lacking organic material and had a high bulk density. Some parameters functioned better in the living shorelines than they did in fringing marshes, such as some of the nekton species. 
 
+
+![Figure 1. Z-Scores of the ecological metrics measured.](Zscore_image.jpg)
+
+
+
 In conclusion, living shorelines are a great way to create more habitat for organisms.Living shorelines are a way to restore and adapt fringing marsh ecosystems in the face of climate change. As we move away from hard engineering structure to protect our coastlines, living shorelines in the Chesapeake Bay area should be highly considered. 
 
-```{r}
 
-```
 
